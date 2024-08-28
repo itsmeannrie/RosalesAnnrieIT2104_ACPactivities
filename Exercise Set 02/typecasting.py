@@ -1,7 +1,7 @@
-int_value = int(input("Enter integer: "))
+int_val = int(input("Enter integer: "))
 
-float_value = float(input("Enter a float: "))
+float_val = float(input("Enter a float: "))
 
-difference = float(int_value) - float_value
+difference = float(int_val) - float_val
 
 print(f"difference: {difference:.2f}")
