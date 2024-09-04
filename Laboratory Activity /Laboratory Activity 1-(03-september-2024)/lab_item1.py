@@ -15,6 +15,4 @@ def main():
     print(f'Title: "{title}"')
     print(f"Artist: {artist}")
 
-if __name__ == "__main__":
-    main()
 
