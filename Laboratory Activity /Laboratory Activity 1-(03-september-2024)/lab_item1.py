@@ -9,7 +9,7 @@ def main():
     print("SONG DETAILS")
     print("-------------")
 
-    print(f"\nYear Released: {year}")
+    print(f"Year Released: {year}")
     print(f"Genre: {genre}")
     print(f"Album: {album}")
     print(f'Title: "{title}"')
