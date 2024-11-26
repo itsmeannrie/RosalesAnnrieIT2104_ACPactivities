@@ -3,7 +3,7 @@ from Capybara import Capybara
 capybaras = [
     Capybara("Biscoff", "M", 5),
     Capybara("Solara", "F", 3),
-    Capybara("ALas", "M", 7),
+    Capybara("ALas", "M", 2),
     Capybara("Koko", "F", 4)
 ]
 
